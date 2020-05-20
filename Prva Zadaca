@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Naslov</title>
+    </head>
+    <div>
+        <body>
+    <h1>Sadržaj cijele web stranice</h1>
+    <a href="https://facebook.com"><img src="https://cdn.clipart.email/c4c770f106dcd253fd34746c8c597785_find-us-on-facebook-small-logo-logodix_500-500.png" width="150" height="150">Facebook</a>
+    <a href="https://instagram.com"><img src="https://cdn1.iconfinder.com/data/icons/instagram-ui-flat/48/Instagram_UI-03-512.png" width="150" height="150">Instagram</a>
+    <a href="https://youtube.com"><img src="https://i.pinimg.com/originals/2d/2b/e2/2d2be2421911037d80f9921dc29d54c2.jpg">Youtube</a>
+</div>
+    <div>
+    <table>
+        <thead>
+          <tr>
+            <th>Red. broj</th>
+            <th>Slika</th>
+            <th>Putanja</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1.</td>
+            <td><img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="" height="10"></td>
+            <td>www.facebook.com</td>
+          </tr>
+          <tr>
+            <td>2.</td>
+            <td><img src="https://cdn1.iconfinder.com/data/icons/instagram-ui-flat/48/Instagram_UI-03-512.png" height="15"></td>
+            <td>www.instagram.com</td>
+          </tr>
+          <tr>
+            <td>3.</td>
+            <td><img src="https://i.pinimg.com/originals/2d/2b/e2/2d2be2421911037d80f9921dc29d54c2.jpg" height="10"></td>
+            <td>www.youtube.com</td>
+          </tr>
+        </tbody>
+        </table>
+</div>
+        <div>
+<ul style="padding: 15%;">
+    <li>Prvi</li>
+    <li>Drugi</li>
+    <li>Treći</li>
+</ul>
+<span>___________________________________________________________________</span>
+<ol>
+    <li>Hi</li>
+    <li>Hello</li>
+    <li>Hey</li>
+    <li>Heeeeeeeeey</li>
+</ol>
+
+        </div>
+        </body>
+ </html>
